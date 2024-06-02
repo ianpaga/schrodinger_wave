@@ -1,7 +1,7 @@
 Two-dimensional Schrodinger wavepacket evolution in a squared potential well 
 ====
 
-Description: Simulates the time evolution of a wave packet in a 2D potential well using the Crank-Nicolson method.
+Description: Simulates the time evolution of a wave packet in a 2D potential well using the Crank-Nicolson method. For simplicity, periodic boundary conditions were implemented in this project; future work involves playing around with different conditions at the boundaries.
 
 ## Figures:
 
